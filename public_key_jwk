@@ -1,0 +1,6 @@
+{\"keys\": [{\"crv\": \"P-256\", \"x\": \"Urh7sbz1ZEHaXu4WGLA0nUp-ZYQuCGIqlhhwAZ8IyTA\", \"y\": \"MYzlLfmzNdZTYjGVl7aIkKHYN8SNDJMVjpfeNBRYpzk\", \"kty\": \"EC\", \"kid\": \"qTJUYOiRU4le2xFjNbd4ohVcMCOlaWXEC07K5XvlCgU\"}]}
+
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUrh7sbz1ZEHaXu4WGLA0nUp+ZYQu
+CGIqlhhwAZ8IyTAxjOUt+bM11lNiMZWXtoiQodg3xI0MkxWOl940FFinOQ==
+-----END PUBLIC KEY-----
